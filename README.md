@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasitha Navodya Liyanagamage</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Student of IJSE from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
