@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasitha Navodya Liyangamage</h1>
-<h3 align="center">A Student of Insititue of Java & Software Engineering from Sri Lanka</h3>
+<h3 align="center">A  Passionate Frontend Developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithanavodya&label=Profile%20views&color=0e75b6&style=flat" alt="hasithanavodya" /> </p>
 
