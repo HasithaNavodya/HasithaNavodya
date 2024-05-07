@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Institute of Java and Software Engineering As a Student**
 
-- 🌱 I’m currently learning **Institute of Java and Software Engineering As a Student**
+- 🌱 I’m currently learning **Java,Mysql**
 
 - 📫 How to reach me **hasithanavodya@gmail.com**
 
