@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasitha Navodya Liyanagamage</h1>
 <p> 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A%20Passionate%20Frontend%20Developer%20From%20 Sri Lanka;Software%20Engineer;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithanavodya&label=Profile%20views&color=0e75b6&style=flat" alt="hasithanavodya" /> </p>
 
