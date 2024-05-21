@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasitha Navodya Liyanagamage</h1>
-<h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
-
+<p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithanavodya&label=Profile%20views&color=0e75b6&style=flat" alt="hasithanavodya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasithanavodya" alt="hasithanavodya" /></a> </p>
