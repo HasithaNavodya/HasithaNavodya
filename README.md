@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasitha+Navodya+Liyanagamage;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 <h3 align="center"><b><i>A Passionate Frontend Developer From Sri Lanka</i></b></h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20|%20Spring%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20|%20Spring%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithanavodya&label=Profile%20views&color=0e75b6&style=flat" alt="hasithanavodya" /> </p>
 
