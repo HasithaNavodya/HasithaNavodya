@@ -30,6 +30,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithanavodya&show_icons=true&locale=en" alt="hasithanavodya" /></p>
 
-+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithanavodya&" alt="hasithanavodya" /></p>
+
+<p>
+ 👨‍🦰<a href="https://hasithanavodya.github.io/MyPortfolio/">Visit My Website</a>
+</p>
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
