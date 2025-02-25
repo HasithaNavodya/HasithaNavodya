@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithanavodya&show_icons=true&locale=en&layout=compact" alt="hasithanavodya" /></p>
 
-<p>&nbsp;<img align="center" src="" alt="hasithanavodya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithanavodya&show_icons=true&locale=en" alt="hasithanavodya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithanavodya&" alt="hasithanavodya" /></p>
 
